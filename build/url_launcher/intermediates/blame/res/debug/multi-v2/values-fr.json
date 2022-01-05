@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\bugi2\\Downloads\\Flutter_Google_Maps_MyTrack-master\\Flutter_Google_Maps_MyTrack-master\\build\\url_launcher\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fr\\values-fr.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\bugi2\\.gradle\\caches\\transforms-2\\files-2.1\\f52c4084d672559a10def8b607f76a21\\core-1.1.0\\res\\values-fr\\values-fr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\bugi2\\Downloads\\Flutter_Google_Maps_MyTrack-master\\Flutter_Google_Maps_MyTrack-master\\build\\url_launcher\\intermediates\\res\\merged\\debug\\values-fr\\values-fr.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\bugi2\\.gradle\\caches\\transforms-2\\files-2.1\\f52c4084d672559a10def8b607f76a21\\core-1.1.0\\res\\values-fr\\values-fr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

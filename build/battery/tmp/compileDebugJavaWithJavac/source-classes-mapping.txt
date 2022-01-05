@@ -1,0 +1,5 @@
+io/flutter/plugins/battery/BuildConfig.java
+ io.flutter.plugins.battery.BuildConfig
+io/flutter/plugins/battery/BatteryPlugin.java
+ io.flutter.plugins.battery.BatteryPlugin
+ io.flutter.plugins.battery.BatteryPlugin$1

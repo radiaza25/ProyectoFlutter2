@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\bugi2\\Desktop\\Tesis COmpleta\\Flutter_Google_Maps_MyTrack-master\\Flutter_Google_Maps_MyTrack-master\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\bugi2\\.gradle\\caches\\transforms-2\\files-2.1\\b7a1f21c8ed8393fec6037710e212174\\material-1.5.0-alpha01\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,191",
+                        "endColumns": "135,140",
+                        "endOffsets": "186,327"
+                    }
+                }
+            ]
+        }
+    ]
+}

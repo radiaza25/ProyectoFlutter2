@@ -1,0 +1,42 @@
+com/babariviere/sms/SmsQuery.java
+ com.babariviere.sms.SmsQuery
+ com.babariviere.sms.SmsQueryHandler
+ com.babariviere.sms.SmsQueryRequest
+com/babariviere/sms/TelephonyCompat.java
+ com.babariviere.sms.TelephonyCompat
+com/babariviere/sms/permisions/PermissionsRequest.java
+ com.babariviere.sms.permisions.PermissionsRequest
+com/babariviere/sms/ContactQuery.java
+ com.babariviere.sms.ContactQuery
+ com.babariviere.sms.ContactQueryHandler
+com/babariviere/sms/status/SmsStatus.java
+ com.babariviere.sms.status.SmsStatus
+com/babariviere/sms/permisions/PermissionsRequestHandler.java
+ com.babariviere.sms.permisions.PermissionsRequestHandler
+com/babariviere/sms/UserProfileProvider.java
+ com.babariviere.sms.UserProfileHandler
+ com.babariviere.sms.UserProfileProvider
+com/babariviere/sms/permisions/Permissions.java
+ com.babariviere.sms.permisions.Permissions
+com/babariviere/sms/status/SmsStateHandler.java
+ com.babariviere.sms.status.SmsStateHandler
+com/babariviere/sms/telephony/TelephonyManager.java
+ com.babariviere.sms.telephony.TelephonyManager
+com/babariviere/sms/ContactPhotoQuery.java
+ com.babariviere.sms.ContactPhotoQuery
+ com.babariviere.sms.ContactPhotoQueryHandler
+com/babariviere/sms/BuildConfig.java
+ com.babariviere.sms.BuildConfig
+com/babariviere/sms/status/SmsStateChangeReceiver.java
+ com.babariviere.sms.status.SmsStateChangeReceiver
+com/babariviere/sms/SmsSender.java
+ com.babariviere.sms.SmsSender
+ com.babariviere.sms.SmsSenderMethodHandler
+com/babariviere/sms/SimCardsProvider.java
+ com.babariviere.sms.SimCardsHandler
+ com.babariviere.sms.SimCardsProvider
+com/babariviere/sms/SmsPlugin.java
+ com.babariviere.sms.SmsPlugin
+com/babariviere/sms/SmsReceiver.java
+ com.babariviere.sms.SmsReceiver
+ com.babariviere.sms.SmsReceiver$1
